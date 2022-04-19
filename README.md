@@ -32,12 +32,6 @@ Needed:
 ###### 2. Run and test :
  - Run `python linkedIn.py`
 
-## Screenshot
-
-![Serch Parameter](https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/search_parameter.png?raw=true "Serch Parameter")
-![Connection](https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/connection.png?raw=true "Connection")
-![message](https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/message.png?raw=true "message")
-
 
 
 ###### Test & Development:
@@ -55,6 +49,11 @@ Create the selenium server, open the VNC window and launch the tests, type those
     make view
     make tests
 ```
+## Screenshot
+
+<img src="https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/search_parameter.png?raw=true" width="500" />
+<img src="https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/connection.png?raw=true" width="500" />
+<img src="https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/message.png?raw=true" width="500" />
 
 ## Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
