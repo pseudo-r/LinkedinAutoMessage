@@ -34,9 +34,9 @@ Needed:
 
 ## Screenshot
 
-![Serch Parameter](screenshot/search_parameter.jpg?raw=true "Serch Parameter")
-![Connection](screenshot/connection.jpg?raw=true "Connection")
-![message](screenshot/message.jpg?raw=true "message")
+![Serch Parameter](https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/search_parameter.jpg?raw=true "Serch Parameter")
+![Connection](https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/connection.png?raw=true "Connection")
+![message](https://github.com/pseudo-r/LinkedinAutoMessage/blob/main/screenshot/message.jpg?raw=true "message")
 
 
 ###### Test & Development:
