@@ -34,9 +34,9 @@ Needed:
 
 ## Screenshot
 
-![Serch Parameter](/screenshot/search_parameter.jpg?raw=true "Serch Parameter")
-![Connection](/screenshot/connection.jpg?raw=true "Connection")
-![message](/screenshot/message.jpg?raw=true "message")
+![Serch Parameter](screenshot/search_parameter.jpg?raw=true "Serch Parameter")
+![Connection](screenshot/connection.jpg?raw=true "Connection")
+![message](screenshot/message.jpg?raw=true "message")
 
 
 ###### Test & Development:
