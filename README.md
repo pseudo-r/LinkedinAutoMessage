@@ -32,6 +32,12 @@ Needed:
 ###### 2. Run and test :
  - Run `python linkedIn.py`
 
+## Screenshot
+
+![Serch Parameter](/screenshot/search_parameter.jpg?raw=true "Serch Parameter")
+![Connection](/screenshot/connection.jpg?raw=true "Connection")
+![message](/screenshot/message.jpg?raw=true "message")
+
 
 ###### Test & Development:
 Setup your python virtual environment (trivial but mandatory):
