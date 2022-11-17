@@ -13,7 +13,7 @@ import time, os, shutil, re, traceback, parameters, csv, os.path, time
 
 
 # Functions 
-def search_and_send_request(keywords, till_page):
+def search_and_send_request(keywords, till_page, writer):
     chrome_options = webdriver.ChromeOptions()
     #chrome_options.headless=True
     #chrome_options.add_argument('--headless')
